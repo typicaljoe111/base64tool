@@ -1,2 +1,2 @@
 # base64tool
-Base64 encoding nd decoding utility tool online
+Online Base64 encoding and decoding utility tool
